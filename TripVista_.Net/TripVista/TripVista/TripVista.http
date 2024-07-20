@@ -1,6 +1,0 @@
-@TripVista_HostAddress = http://localhost:5152
-
-GET {{TripVista_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
